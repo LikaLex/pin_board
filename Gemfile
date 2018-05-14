@@ -10,6 +10,7 @@ gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'simple_form', '~> 4.0'
 gem 'devise', '~> 4.4', '>= 4.4.3'
+gem 'paperclip', '~> 6.0'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
